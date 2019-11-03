@@ -6,7 +6,7 @@ output:
   
 ---
 
-## Test
+## Test2
 
 ```{r setup, echo=FALSE}
     knitr::opts_knit$set(root.dir = normalizePath("/Users/apple/Dropbox/Student Data/Fall 2019/MA 575/Group Project/Bike/MA-575-Lab-Project")) 
